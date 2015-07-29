@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="profshowlist">
+        <item name="farhan">Farhan Live</item>
+        <item name="vipulgoyal">Vipul Goyal</item>
+        <item name="tvf">TVF</item>
+        <item name="soulmate">Soulmate</item>
+    </string-array>
+    
+    <!--  string-array name="elementslist">
+        <item name="fire">Fire</item>
+        <item name="air">Air</item>
+        <item name="water">Water</item>
+        <item name="earth">Earth</item>
+        <item name="ether">Ether</item>
+    </string-array -->
+    
+	<string-array name="eventcategories">
+        <item name="automation">Automation</item>
+        <item name="buildAndDesign">Build And Design</item>
+        <item name="codeAndSimulate">Code \u0026 Simulate</item>
+        <item name="developAndDiscover">Develop \u0026 Discover</item>
+        <item name="economania">Economania</item>
+        <item name="asme">ASME</item>
+        <item name="aic">AIC</item>
+        <item name="miscellaneous">Miscellaneous</item>
+        <item name="online">Online Events</item>
+        <item name="papersAndProjects">Papers \u0026 Projects</item>
+        <item name="quizzes">Quizzes</item>
+        <item name="workshops">Workshops</item>
+   
+    </string-array>
+    
+    <!--  string-array name="fireevents">
+        <item name="andholika">Andholika</item>
+        <item name="axetacy">Axetacy</item>
+        <item name="bigfight">Big Fight</item>
+        <item name="blab">BLAB</item>
+        <item name="freejam">Free Jam</item>
+        <item name="oasisdebate">Oasis Debate</item>
+        <item name="rapwars">Rap Wars</item>
+        <item name="rocktaves">Rocktaves</item>
+        <item name="sonicstampede">Sonic Stampede</item>
+        <item name="sourimpression">Sour Impression</item>
+        <item name="streetdance">Street Dance</item>
+        <item name="tandav">Tandav</item>
+        <item name="tarang">Tarang</item>
+        <item name="unplugged">Unplugged</item>
+        <item name="virtuoso">Virtuoso</item>        
+    </string-array -->
+    
+    <!--string-array name="airevents">
+        <item name="audiovisualquiz">AudioVisual Quiz</item>
+        <item name="entertainmentquiz">Entertainment Quiz</item>
+        <item name="filmymuqabala">Filmy Muqabala</item>
+        <item name="fornorhymeorreason">For no Rhyme or Reason</item>
+        <item name="kshanika">Kshanika</item>
+        <item name="literaturequiz">Literature Quiz</item>
+        <item name="moviequiz">Movie Quiz</item>
+        <item name="oasisquiz">Oasis Quiz</item>
+        <item name="speedscrabble">Speed Scrabble</item>
+        <item name="spellbeefordummies">Spell Bee for Dummies</item>
+        <item name="wordstock">Wordstock</item>
+        <item name="wordwars">Word Wars</item>
+    </string-array-->
+    
+    <!--string-array name="waterevents">
+        <item name="choreo">Choreo</item>
+        <item name="desertduel">Desert Duel</item>
+        <item name="razzmatazz">Razzmatazz</item>
+        <item name="scriptwriting">Script Writing</item>
+        <item name="splash">Splash</item>
+        <item name="swaranjali">Swaranjali</item>
+        <item name="westernacousticjam">Western Acoustic Jam</item>
+    </string-array>
+	
+	<string-array name="earthevents">
+        <item name="begborrowsteal">Beg Borrow Steal</item>
+        <item name="adeffect">Ad Effect</item>
+        <item name="apt2act">Apt 2 Act</item>
+        <item name="elementry">Elementry</item>
+        <item name="fashp">FashP</item>
+        <item name="improvise">Improvise</item>
+        <item name="mime">Mime</item>
+        <item name="minute2win">Minute 2 Win</item>
+        <item name="poemapic">Poem-A-Pic</item>
+        <item name="protestoutofwaste">Protest Out of Waste</item>
+        <item name="snoopdogs">Snoop Dogs</item>
+        <item name="stageplay">Stageplay</item>
+        <item name="streetplay">Streetplay</item>
+        <item name="vlogging">VLogging</item>
+        <item name="whirlword">WhirlWord</item>
+    </string-array>
+    
+	<string-array name="etherevents">
+        <item name="antakshari">Anthakshari</item>
+        <item name="betweenthelines">Between the Lines</item>
+        <item name="bluffmaster">Bluffmaster</item>
+        <item name="cocktail">Cocktail</item>
+        <item name="comedyknights">Comedy Knights</item>
+        <item name="downtheline">Down the Line</item>
+        <item name="emotions">Emotions</item>
+        <item name="exposure">Exposure</item>
+        <item name="graffiti">Graffiti</item>
+        <item name="metamorphosis">Metamorphosis</item>
+        <item name="misterandmissoasis">Mister and Miss Oasis</item>
+        <item name="mockparliament">Mock Parliament</item>
+        <item name="rjhunt">RJ Hunt</item>
+        <item name="spotlight">Spotlight</item>
+        <item name="suicideatmidnight">Suicide at Midnight</item>
+        <item name="treasurehunt">Treasure Hunt</item>
+        <item name="triathalon">Triathalon</item>
+        <item name="vinemaking">Vine Making</item>
+        <item name="vineyard">Vineyard</item>
+        <item name="youthsabha">Youth Sabha</item>
+    </string-array-->
+    
+    <string-array name="automationevents">
+        <item name="splash">Splash</item>
+        <item name="graffiti">Graffiti</item>
+        <item name="protestoutofwaste">Protest Out of Waste</item>
+        <item name="sourimpression">Sour Impression</item>
+    </string-array>
+    
+    <string-array name="buildAndDesignevents">
+        <item name="splash">Splash</item>
+        <item name="graffiti">Graffiti</item>
+        <item name="protestoutofwaste">Protest Out of Waste</item>
+        <item name="sourimpression">Sour Impression</item>
+    </string-array>
+    
+    <string-array name="codeAndSimulateevents">
+        <item name="choreo">Choreo</item>
+        <item name="streetdance">Street Dance</item>
+        <item name="desertduel">Desert Duel</item>
+        <item name="razzmatazz">Razzmatazz</item>
+        <item name="tandav">Tandav</item>
+    </string-array>
+    
+    <string-array name="developAndDiscoverevents">        
+        <item name="fashp">FashP</item>
+        <item name="mime">Mime</item>
+        <item name="stageplay">Stageplay</item>
+        <item name="streetplay">Streetplay</item>
+        <item name="metamorphosis">Metamorphosis</item>
+        <item name="comedyknights">Comedy Knights</item>
+    </string-array>
+    
+    <string-array name="economaniaevents">        
+        <item name="axetacy">Axetacy</item>
+        <item name="rapwars">Rap Wars</item>
+        <item name="sonicstampede">Sonic Stampede</item>
+        <item name="unplugged">Unplugged</item>
+        <item name="swaranjali">Swaranjali</item>
+        <item name="freejam">Free Jam</item>
+        <item name="virtuoso">Virtuoso</item>        
+        <item name="antakshari">Anthakshari</item>
+        <item name="andholika">Andholika</item>
+        <item name="tarang">Tarang</item>
+        <item name="westernacousticjam">Western Acoustic Jam</item>
+    </string-array>
+    
+    <string-array name="guestLectures">        
+        <item name="bluffmaster">Bluffmaster</item>
+        <item name="misterandmissoasis">Mister and Miss Oasis</item>
+        <item name="mockparliament">Mock Parliament</item>
+        <item name="kshanika">Kshanika</item>
+        <item name="youthsabha">Youth Sabha</item>
+        <item name="blab">BLAB</item>
+        <item name="oasisdebate">Oasis Debate</item>
+        <item name="rjhunt">RJ Hunt</item>
+        <item name="spotlight">Spotlight</item>
+    </string-array>
+    
+    <string-array name="quizzingevents">        
+        <item name="adeffect">Ad Effect</item>
+        <item name="literaturequiz">Literature Quiz</item>
+        <item name="moviequiz">Movie Quiz</item>
+        <item name="audiovisualquiz">AudioVisual Quiz</item>
+        <item name="oasisquiz">Oasis Quiz</item>
+        <item name="entertainmentquiz">Entertainment Quiz</item>
+        <item name="filmymuqabala">Filmy Muqabala</item>
+    </string-array>    
+    
+    <string-array name="onlineevents">        
+        <item name="wordwars">Word Wars</item>
+        <item name="emotions">Emotions</item>
+        <item name="exposure">Exposure</item>
+        <item name="betweenthelines">Between the Lines</item>
+        <item name="vinemaking">Vine Making</item>
+        <item name="vlogging">VLogging</item>
+        <item name="whirlword">WhirlWord</item>
+    </string-array>    
+    
+    <string-array name="miscellaneousevents">
+        <item name="spellbeefordummies">Spell Bee for Dummies</item>
+        <item name="apt2act">Apt 2 Act</item>
+        <item name="fornorhymeorreason">For no Rhyme or Reason</item>
+        <item name="poemapic">Poem-A-Pic</item>
+        <item name="suicideatmidnight">Suicide at Midnight</item>
+        <item name="triathalon">Triathalon</item>
+        <item name="wordstock">Wordstock</item>
+        <item name="speedscrabble">Speed Scrabble</item>
+        <item name="minute2win">Minute 2 Win</item>
+        <item name="cocktail">Cocktail</item>
+        <item name="bigfight">Big Fight</item>
+        <item name="treasurehunt">Treasure Hunt</item>
+        <item name="begborrowsteal">Beg Borrow Steal</item>
+        <item name="elementry">Elementry</item>
+        <item name="improvise">Improvise</item>
+        <item name="scriptwriting">Script Writing</item>
+        <item name="snoopdogs">Snoop Dogs</item>
+    </string-array>  
+        
+    <string-array name="workshopevents">        
+        <item name="wordwars">Word Wars</item>
+    </string-array>  
+    
+    <string-array name="papersandprojects">        
+        <item name="wordwars">Word Wars</item>
+    </string-array>  
+</resources>

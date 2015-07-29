@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">APOGEE-2014</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="action_websearch">Web search</string>
+    <string name="app_not_available">Sorry, there\'s no web browser available</string>
+    
+    
+        <string-array name="mainmenuitems">
+		
+		
+		<item name="events">Events</item>
+		<item name="schedule">Schedule</item>
+		<item name="favourites">Favourites</item>
+		<item name="sponsors">Sponsors</item>
+		<item name="thinkAgain">Think Again</item>
+		<item name="campusAmbassadors">Campus Ambassadors</item>
+		<item name="kernel">Kernel Events</item>		
+		<item name="Quiz">Quiz</item>
+		<item name="EventOfTheDay">Event of the Day</item>
+		<item name="contactUs">Contact Us</item>
+		<item name="Social">Social</item>
+		
+	
+	</string-array>
+<string-array name="days">
+		
+		
+		<item name="day1">27&#8211;03&#8211;2014</item>
+		<item name="day2">28&#8211;03&#8211;2014</item>
+		<item name="day3">29&#8211;03&#8211;2014</item>
+		<item name="day4">30&#8211;03&#8211;2014</item>
+		<item name="day5">31&#8211;03&#8211;2014</item>
+		
+	</string-array>
+</resources>

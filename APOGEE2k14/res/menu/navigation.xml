@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+        <item
+            android:id="@+id/auto" 
+            android:title="automation">Automation</item>
+        <item 
+            android:id="@+id/build" 
+            android:title="buildAndDesign">Build and Design</item>
+        <item 
+            android:id="@+id/code" 
+            android:title="codeAndSimulate">Code and Simulate</item>
+        <item 
+            android:id="@+id/develop" 
+            android:title="developAndDiscover">Develop and Discover</item>
+        <item 
+            android:id="@+id/eco" 
+            android:title="economania">Economania</item>
+        <item 
+            android:id="@+id/guest" 
+            android:title="guestLectures">Guest Lectures</item>
+        <item 
+            android:id="@+id/misc" 
+            android:title="miscellaneous">Miscellaneous</item>
+        <item 
+            android:id="@+id/online" 
+            android:title="online">Online</item>
+        <item 
+            android:id="@+id/papers" 
+            android:title="papersAndProjects">Papers and Projects</item>
+        <item 
+            android:id="@+id/quiz" 
+            android:title="quizzes">Quizzes</item>
+        <item 
+            android:id="@+id/work" 
+            android:title="workshops">Workshops</item>
+</menu>
